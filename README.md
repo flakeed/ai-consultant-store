@@ -19,6 +19,7 @@ Deep Foundation uses a system based on PostgreSQL via Hasura, working with terna
 The project's use of TypeScript, JavaScript, React, Next.js, and Capacitor, combined with the core technologies of GraphQL, Hasura, Postgres, and MinIO provided by the Deep Foundation, illustrates a multi-faceted approach to building scalable, adaptive, and intuitive applications. By adding additional components to the NPM repositories, the project not only enriches the developer community, but also sets new standards for collaborative and open source development. This involves pushing the boundaries of what is possible, harnessing the collective power of these technologies to create a seamless and enriching user experience.
 
 ### A few app screenshots
-![image](https://github.com/flakeed/ai-consultant-store/assets/58123600/b0a0ebd9-34e9-4050-a32f-c9fba9acd9a4)
-![image](https://github.com/flakeed/ai-consultant-store/assets/58123600/29a06cd6-a671-442e-b7e7-b72f3cbe536c)
-![image](https://github.com/flakeed/ai-consultant-store/assets/58123600/89030c86-30ce-4c12-8a3a-816869f11375)
+![image](https://github.com/user-attachments/assets/03fa546b-8ef2-4f4f-8c5a-808f36ca8306)
+![image](https://github.com/user-attachments/assets/520cf4ea-540e-4d99-a162-65731ba95ce1)
+![image](https://github.com/user-attachments/assets/6a9b2d05-4ed0-46c5-9dc2-f9ffdc2d7a21)
+
