@@ -2,7 +2,7 @@
 
 ### Description:
 
-The "ai-consultant-store" project was developed within the framework of university practice and is an innovative solution to improve the shopping experience. Based on artificial intelligence and GPT-4 algorithms, the assistant offers personalized recommendations based on user needs and preferences. The peculiarity of the project is that you can communicate with it both by text and voice, which makes the process of choosing products more convenient and intuitive.
+The "ai-consultant-store" project was developed within the framework of university coursework and is an innovative solution to improve the shopping experience. Based on artificial intelligence and GPT-4 algorithms, the assistant offers personalized recommendations based on user needs and preferences. The peculiarity of the project is that you can communicate with it both by text and voice, which makes the process of choosing products more convenient and intuitive.
 
 In the process of interacting with "ai-consultant-store", users can conveniently add selected products to a virtual cart. This functionality not only simplifies the selection process, but also allows customers to review their selections, make changes or make purchasing decisions at any time without rushing.
 
